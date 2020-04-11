@@ -1,0 +1,8 @@
+game:
+  arch: win64
+  exe: /home/twen/data/downloads/Battle.net-Setup.exe
+system:
+  prefer_system_libs: false
+  reset_desktop: false
+wine:
+  dxvk: true

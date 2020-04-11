@@ -1,0 +1,41 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR 1:\x1d
+SETUVAR BROWSER:icecat
+SETUVAR EDITOR:nvim
+SETUVAR --path PATH:/usr/local/bin\x1e/bin\x1e/usr/bin\x1e/home/twen/\x2elocal/bin
+#SETUVAR XDG_DATA_DIRS:/usr/local/share\x3a/usr/share\x3a/home/twen/\x2elocal/share/flatpak/exports/share
+#SETUVAR XDG_DATA_HOME:/home/twen/\x2elocal/share/flatpak/exports/share
+#SETUVAR XDG_RUNTIME_DIR:/home/\x2elocal/twen/local/share/flatpak/app/
+SETUVAR __fish_initialized:3100
+SETUVAR fish_color_autosuggestion:a3dfe8
+SETUVAR fish_color_cancel:normal
+SETUVAR fish_color_command:e2b5c8
+SETUVAR fish_color_comment:E6D6D6
+SETUVAR fish_color_cwd:a3dfe8
+SETUVAR fish_color_cwd_root:800000
+SETUVAR fish_color_end:eeeeee
+SETUVAR fish_color_error:ea9898
+SETUVAR fish_color_escape:E2E1B5
+SETUVAR fish_color_history_current:normal
+SETUVAR fish_color_host:216
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_hostalt:ac9ccb
+SETUVAR fish_color_match:normal
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:f3ebe4
+SETUVAR fish_color_param:ac9ccb
+SETUVAR fish_color_quote:eaab98
+SETUVAR fish_color_redirection:e2e1b5
+SETUVAR fish_color_search_match:ffff00
+SETUVAR fish_color_selection:c0c0c0
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:e2b5c8
+SETUVAR fish_color_valid_path:normal
+SETUVAR fish_greeting:
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:a3dfe8
+SETUVAR fish_pager_color_description:ea9898
+SETUVAR fish_pager_color_prefix:ac9ccb
+SETUVAR fish_pager_color_progress:ea98ae
+SETUVAR fish_prompt_pwd_dir_length:0

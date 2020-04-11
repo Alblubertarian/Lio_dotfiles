@@ -1,0 +1,86 @@
+12:36:15 : CANTO-DAEMON -> canto-daemon 0.9.7 
+12:36:15 : CANTO-DAEMON -> conf_dir = /home/twen/.config/canto
+12:36:15 : PLUGINS -> Creating plugins directory.
+12:36:15 : PLUGINS -> Creating plugin __init__.py
+12:36:15 : CONFIG -> No config found, writing default.
+12:36:15 : CONFIG -> Read /home/twen/.config/canto/conf
+12:36:15 : CONFIG -> Validated: {'defaults': {'global_transform': 'filter_read', 'keep_time': 86400, 'keep_unread': False, 'rate': 10}, 'feeds': [{'name': 'Canto', 'url': 'http://codezen.org/canto-ng/feed/'}, {'name': 'Slashdot', 'url': 'http://rss.slashdot.org/slashdot/Slashdot'}, {'name': 'Reddit', 'url': 'http://reddit.com/.rss'}]}
+12:36:15 : CANTO-DAEMON -> Listening on unix socket: /home/twen/.config/canto/.canto_socket
+12:36:15 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:15 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:15 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:15 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:42 : SERVER -> Connection ended.
+12:36:42 : SERVER -> Connection ended.
+12:36:42 : SERVER -> Connection ended.
+12:36:42 : SERVER -> Connection ended.
+12:36:44 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:44 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:44 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:36:44 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:37:00 : SERVER -> Connection ended.
+12:37:00 : SERVER -> Connection ended.
+12:37:00 : SERVER -> Connection ended.
+12:37:00 : SERVER -> Connection ended.
+12:37:01 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:37:01 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:37:01 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:37:01 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:38:56 : SERVER -> Connection ended.
+12:38:56 : SERVER -> Connection ended.
+12:38:56 : SERVER -> Connection ended.
+12:38:56 : SERVER -> Connection ended.
+12:38:57 : SERVER -> conn (<socket.socket fd=5, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:38:57 : SERVER -> conn (<socket.socket fd=6, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:38:57 : SERVER -> conn (<socket.socket fd=7, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:38:58 : SERVER -> conn (<socket.socket fd=8, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:39:41 : SERVER -> conn (<socket.socket fd=9, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:39:41 : SERVER -> conn (<socket.socket fd=10, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:39:41 : SERVER -> conn (<socket.socket fd=11, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:39:41 : SERVER -> conn (<socket.socket fd=12, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:40:58 : SERVER -> Connection ended.
+12:40:58 : SERVER -> Connection ended.
+12:40:58 : SERVER -> Connection ended.
+12:40:58 : SERVER -> Connection ended.
+12:40:59 : SERVER -> conn (<socket.socket fd=9, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:40:59 : SERVER -> conn (<socket.socket fd=10, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:40:59 : SERVER -> conn (<socket.socket fd=11, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:40:59 : SERVER -> conn (<socket.socket fd=12, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:40 : SERVER -> Connection ended.
+12:44:40 : SERVER -> Connection ended.
+12:44:40 : SERVER -> Connection ended.
+12:44:40 : SERVER -> Connection ended.
+12:44:42 : SERVER -> conn (<socket.socket fd=9, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:42 : SERVER -> conn (<socket.socket fd=10, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:42 : SERVER -> conn (<socket.socket fd=11, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:43 : SERVER -> conn (<socket.socket fd=12, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:57 : SERVER -> Connection ended.
+12:44:57 : SERVER -> Connection ended.
+12:44:57 : SERVER -> Connection ended.
+12:44:57 : SERVER -> Connection ended.
+12:44:57 : SERVER -> conn (<socket.socket fd=9, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:57 : SERVER -> conn (<socket.socket fd=10, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:57 : SERVER -> conn (<socket.socket fd=11, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:44:57 : SERVER -> conn (<socket.socket fd=12, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:45:37 : SERVER -> Connection ended.
+12:45:37 : SERVER -> Connection ended.
+12:45:37 : SERVER -> Connection ended.
+12:45:37 : SERVER -> Connection ended.
+12:45:37 : SERVER -> conn (<socket.socket fd=9, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:45:37 : SERVER -> conn (<socket.socket fd=10, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:45:37 : SERVER -> conn (<socket.socket fd=11, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:45:37 : SERVER -> conn (<socket.socket fd=12, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>, '') from sock <socket.socket fd=4, family=AddressFamily.AF_UNIX, type=SocketKind.SOCK_STREAM, proto=0, laddr=/home/twen/.config/canto/.canto_socket>
+12:48:02 : SERVER -> Connection ended.
+12:48:02 : SERVER -> Connection ended.
+12:48:02 : SERVER -> Connection ended.
+12:48:02 : SERVER -> Connection ended.
+00:57:17 : CANTO-FETCH -> No content in http://codezen.org/canto-ng/feed/: <urlopen error timed out>
+00:57:17 : CANTO-FETCH -> No content in http://rss.slashdot.org/slashdot/Slashdot: <urlopen error [Errno 101] Network is unreachable>
+00:58:47 : CANTO-FETCH -> No content in http://reddit.com/.rss: <urlopen error timed out>
+01:03:28 : CANTO-DAEMON -> Received INT
+01:03:28 : CANTO-DAEMON -> Interrupted. Exiting.
+01:03:29 : SERVER -> Connection ended.
+01:03:29 : SERVER -> Connection ended.
+01:03:29 : SERVER -> Connection ended.
+01:03:29 : SERVER -> Connection ended.
+01:03:29 : CANTO-DAEMON -> Exiting cleanly.

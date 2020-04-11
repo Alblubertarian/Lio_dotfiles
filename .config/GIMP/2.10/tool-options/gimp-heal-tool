@@ -1,0 +1,10 @@
+# GIMP gimp-heal-tool options
+
+(foreground (color-rgb 0.80392163991928101 0.40000003576278687 0.30196079611778259))
+(brush "Splats 02")
+(dynamics "Dynamics Off")
+(palette "Color History")
+(brush-size 213)
+(brush-spacing 0.40000000000000002)
+
+# end of gimp-heal-tool options

@@ -1,0 +1,6 @@
+game:
+  exe: /home/twen/.wine/drive_c/The Elder Scrolls IV Oblivion GOTY Deluxe/Oblivion.exe
+  prefix: /data/windows/lutris
+system: {}
+wine:
+  dxvk: false

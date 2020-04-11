@@ -1,0 +1,20 @@
+
+	# IMAP & SMTP configs 
+
+	set folder = "imaps://lowtierprof@memeware.net@mail.cock.li:993"
+	
+	set smtp_url = "smtp://lowtierprof@memeware.net@mail.cock.li:587"
+
+	# Contact Info
+
+	#set from = "lowtierprof@memeware.net"
+	#set realname = "P. Low Tier"
+
+	set spoolfile = "+INBOX"
+	#set record = "+Sent"
+	#set trash = "+Trash"
+	#set postponed = "+Drafts"
+
+	#mailboxes =INBOX =Sent =Trash =Drafts =Junk =Other
+
+

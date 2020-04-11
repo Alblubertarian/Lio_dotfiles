@@ -1,0 +1,6 @@
+game:
+  exe: /home/twen/.wine/drive_c/GOG Games/Oblivion/OblivionLauncher.exe
+  prefix: ~/.wine
+system: {}
+wine:
+  esync: false
