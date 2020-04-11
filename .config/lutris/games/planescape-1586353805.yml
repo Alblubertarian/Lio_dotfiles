@@ -1,6 +1,0 @@
-game:
-  exe: /home/twen/.wine/drive_c/GOG Games/Planescape Torment - Enhanced Edition/Torment.exe
-  prefix: ~/.wine
-system: {}
-wine:
-  version: lutris-5.5-2-x86_64

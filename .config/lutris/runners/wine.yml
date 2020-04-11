@@ -1,7 +1,0 @@
-system:
-  game_path: ~/.local/games
-wine:
-  dxvk: true
-  dxvk_version: '1.6'
-  esync: true
-  system_winetricks: true
